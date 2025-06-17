@@ -1,0 +1,3 @@
+model_path=/home/ntut/CV_NTUT/Group2/runs/detect/yolo11n_1000epochs_original/weights/best.pt,
+img_path=/home/ntut/CV_NTUT/Group2/111590002/dataset/test/7.png,
+peak = 32.024118 MB

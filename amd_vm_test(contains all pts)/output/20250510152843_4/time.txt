@@ -1,0 +1,5 @@
+modelpath=/home/rvl/API/RTDETER_uploads/NTUT_RTDETER.pt,
+img_path=/home/rvl/API/RTDETER_uploads/4.png,
+load model speed: 43.169260025024414 ms,
+Inference speed: 374.4993209838867 ms,
+print summary speed: 12.228012084960938 ms

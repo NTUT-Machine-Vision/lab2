@@ -1,0 +1,4 @@
+model_path=/home/ntut/CV_NTUT/Group2/rtdetr/runs/detect/rtdetr_1000epochs_original/weights/last.pt,
+img_path=/home/ntut/CV_NTUT/Group2/111590002/dataset/test/6.png,
+model_speed=260.4711055755615 ms,
+inference_speed=547.3265647888184 ms

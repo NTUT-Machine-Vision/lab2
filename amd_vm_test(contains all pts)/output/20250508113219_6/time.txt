@@ -1,0 +1,5 @@
+modelpath=/home/rvl/API/YOLO_uploads/NTUT_YOLO.pt,
+img_path=/home/rvl/API/YOLO_uploads/6.png,
+load model speed: 16.397714614868164 ms,
+Inference speed: 82.31949806213379 ms,
+print summary speed: 22.35269546508789 ms

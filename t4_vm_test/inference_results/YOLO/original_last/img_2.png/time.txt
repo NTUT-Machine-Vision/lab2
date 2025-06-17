@@ -1,0 +1,4 @@
+model_path=/home/ntut/CV_NTUT/Group2/runs/detect/yolo11n_1000epochs_original/weights/last.pt,
+img_path=/home/ntut/CV_NTUT/Group2/111590002/dataset/test/2.png,
+model_speed=116.5611743927002 ms,
+inference_speed=227.79369354248047 ms

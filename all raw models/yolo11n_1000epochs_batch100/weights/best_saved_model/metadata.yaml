@@ -1,0 +1,26 @@
+description: Ultralytics YOLO11n model trained on /home/ntut/CV_NTUT/Group2/datasets/pdfdataset.yaml
+author: Ultralytics
+date: '2025-05-01T21:12:20.522194'
+version: 8.3.94
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: title
+  1: authors
+  2: table
+  3: fig
+  4: formula
+  5: chapter
+  6: pages
+  7: reference
+args:
+  batch: 1
+  half: false
+  int8: false
+  nms: false
